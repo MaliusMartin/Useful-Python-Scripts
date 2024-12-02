@@ -67,7 +67,7 @@ The script saves the QR code as an image file (`qr_code1.png`).
 
 ### Example Output:
 
-![QR Code Example](../assets/qr_code_example.png) *(Replace with actual image if available)*
+![QR Code Example]qr_code1.png) 
 
 ---
 
